@@ -2,10 +2,8 @@
     --main-gradient: linear-gradient(180.96deg, #000000 0.82%, #4A2800 129.1%);
     --main-color: #FA9021;
     --title-color:#FFFFFF;
-}
-:root {
-  --font-poppins: 'Poppins', sans-serif;
-  --font-rubik: 'Rubik', sans-serif;
+    --font-poppins: 'Poppins', sans-serif;
+    --font-rubik: 'Rubik', sans-serif;
 }
 
 * {
